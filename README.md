@@ -15,16 +15,9 @@ See MongoDB ([MongoDB Download page](http://www.mongodb.org/downloads)).
 
 
 ### 2 - Install node-pushserver
-+ From npm directly:
 
 ```shell
-$ npm install node-pushserver -g
-```
-
-+ From git:
-
-```shell
-$ git clone git://github.com/Smile-SA/node-pushserver.git
+$ git clone https://github.com/easym0de/node-pushserver 
 $ cd node-pushserver
 $ npm install -g
 ```
